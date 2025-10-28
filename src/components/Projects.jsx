@@ -15,7 +15,7 @@ const Projects = () => (
         
       </div>
       <div className='ChatGPT'>
-        <h3>ChatGPT Like Appllication - python with Django </h3>
+        <h3>ChatGPT Like Application - python with Django </h3>
         <p>A responsive ChatGPT Like Application</p>
       </div>
     </div>
