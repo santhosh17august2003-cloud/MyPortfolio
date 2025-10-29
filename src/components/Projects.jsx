@@ -7,6 +7,8 @@ const Projects = () => (
       <div className="project">
         <h3>Gym Management System - Python with Django</h3>
         <p>A responsive Gym management system</p>
+        <p><b>Link: <a href="https://gymmanagementsystem-2kso.onrender.com">https://gymmanagementsystem-2kso.onrender.com</a></b> </p>
+        <p><b>Github Link: <a href="https://github.com/santhosh17august2003-cloud/GymManagementSystem.git">https://github.com/santhosh17august2003-cloud/GymManagementSystem.git</a></b> </p>
         
       </div>
       <div className='ChatGPT'>
