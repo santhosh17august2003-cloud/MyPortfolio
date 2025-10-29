@@ -6,7 +6,7 @@ const Header = () => {
     <header className="header">
       <img src="/profile.jpg" alt="Profile" className="profile-pic" />
       <h1>Hi, I'm Santhosh</h1>
-      <p>MERN FullStack Developer | AI Learner | Python</p>
+      <p>Targetting AI Developer | AI Learner | Python</p>
     </header>
   );
 };
